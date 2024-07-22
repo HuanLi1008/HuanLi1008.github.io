@@ -7,12 +7,11 @@
     "phone": "365-357-2555",
     "website": "https://HuanLi1008.github.io",
     "summary": "As a passionate and dedicated Computer Science student with hands-on experience in full-stack development and strong proficiency in Node.js, Express.js,Java, Python, React, Next.js, and PostgreSQL, I aim to leverage my skills in an SDE/SWE position. My goal is to contribute towards creating innovative software solutions while learning from experienced professionals to extend my knowledge and technical skills.",
-    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "Canada", "region": "Ontario" },
+    "location": { "address": "", "postalCode": "", "city": "Toronto", "countryCode": "Canada", "region": "Ontario" },
     "profiles": [
       { "network": "github", "username": "HuanLi1008", "url": "http://github.com/HuanLi1008" },
-      { "network": "linkedin", "username": "huanli1008", "url": "http://linkedin.com/in/huanli1008" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "huanli1008", "url": "http://linkedin.com/in/huanli1008" }
+      
     ]
   },
   "interests": [
